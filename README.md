@@ -17,8 +17,6 @@ A small project to practice creating image and video transformations using Cloud
 
 ## Steps
 
----
-
 ### Image Transformation Challenge
 
 Using the provided image you uploaded, complete the following transformations on the image:
